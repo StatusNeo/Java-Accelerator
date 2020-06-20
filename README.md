@@ -1,4 +1,4 @@
-# Java_Accelerator
+# Java Accelerator
 
 ## Technology Stack
 
@@ -14,12 +14,12 @@
 
 **6. Apache Maven:** Build Automation Tool
 
-## Collaborator
+### Collaborator
 
 |  Name | GitHub  | 
 |---|---|
 | Nishkarsh Raj| [NishkarshRaj](https://www.github.com/NishkarshRaj) |
 
-## License
+### License
 
 This repository follows [MIT License](LICENSE)
