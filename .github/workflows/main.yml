@@ -1,7 +1,7 @@
 name: Java Accelerator
 
 on:
-  pull_request
+  push
 env:
   IMAGE_NAME: statusneo-java-accelerator
 
