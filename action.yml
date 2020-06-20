@@ -1,4 +1,4 @@
-name: 'Java Accelerator'
+name: 'StatusNeo Java Accelerator'
 description: 'Automate Java Project's Build automation using GitHub Actions, Docker, Apache Maven and GitHub Packages'
 author: 'Nishkarsh Raj'
 inputs:
