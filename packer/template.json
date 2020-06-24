@@ -2,8 +2,8 @@
 {
     "builders": [{
         "type": "amazon-ebs",
-        "access_key": "$(AWS_ACCESS_KEY_ID)",
-        "secret_key": "$(AWS_SECRET_ACCESS_KEY_ID)",
+        "access_key": "AKIAYNZB56UHZKWSDPDX",
+        "secret_key": "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",
         "region": "us-east-1",
         "source_ami_filter": {
             "filters": {
