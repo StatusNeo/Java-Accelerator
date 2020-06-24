@@ -1,4 +1,4 @@
-# Java Accelerator
+# Full Stack Java Accelerator
 
 ## Technology Stack
 
