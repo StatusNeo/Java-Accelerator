@@ -24,8 +24,18 @@
 
 **3. Terraform:** Infrastructure as Code
 
+#### Contribution Guidelines
 
-### Collaborator
+Contributions in all forms are appreciated :+1:
+
+Read the contribution guidelines [here](CONTRIBUTING.md).
+
+#### Code of Conduct
+
+Read the [Code of Conduct](CODE_OF_CONDUCT.md) guidelines.
+
+
+### Collaborators
 
 |  Name | GitHub  | 
 |---|---|
